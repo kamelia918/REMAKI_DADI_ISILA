@@ -23,3 +23,16 @@ pip install python-dateutil
 python -m pip install --upgrade pip
 pip install matplotlib
 pip install pandas
+```
+##remarque :
+
+la division est comme suit : 
+- nous avons une seule application 
+- un doissier template :
+   - dans ce dossier il y a des fichier html + deux dossiers vent et employe qui contient des fichiers html à leurs tour
+-un dossier static (pour bootstrap)
+- views.py
+- urls.pu
+- models.py
+- forms.py
+
