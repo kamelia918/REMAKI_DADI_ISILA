@@ -24,7 +24,7 @@ python -m pip install --upgrade pip
 pip install matplotlib
 pip install pandas
 ```
-##remarque :
+## remarque :
 
 la division est comme suit : 
 - nous avons une seule application 
